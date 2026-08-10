@@ -22,9 +22,9 @@ const profile = {
   name: "Rusty C. Carson",
   role: "BSIT Student • Web & IoT Developer",
   location: "Bukidnon, Philippines",
-  email: "your.email@example.com",
-  github: "https://github.com/yourusername",
-  linkedin: "https://www.linkedin.com/in/yourusername/",
+  email: "2301113547@students.buksu.edu.ph",
+  github: "https://github.com/rendezvousofficial",
+  linkedin: "https://www.linkedin.com/in/rusty-carson-9b2744347/",
   cv: "/cv.pdf"
 };
 
@@ -144,7 +144,7 @@ function App() {
           <div className="hero-card">
             <div className="orbit orbit-one"></div>
             <div className="orbit orbit-two"></div>
-            <div className="avatar">RC</div>
+            <img className="avatar" src="./public/profile.jpg" alt="Rusty C. Carson" />
             <p>IT • WEB • IoT</p>
             <strong>Problem Solver</strong>
             <span>Always learning. Always building.</span>
