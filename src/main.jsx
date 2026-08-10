@@ -144,7 +144,7 @@ function App() {
           <div className="hero-card">
             <div className="orbit orbit-one"></div>
             <div className="orbit orbit-two"></div>
-            <img className="avatar" src="./public/profile.jpg" alt="Rusty C. Carson" />
+            <img className="avatar" src="/profile.jpg" alt="Rusty C. Carson" />
             <p>IT • WEB • IoT</p>
             <strong>Problem Solver</strong>
             <span>Always learning. Always building.</span>
